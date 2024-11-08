@@ -31,11 +31,11 @@ function App() {
 
   return (
     <>
-      <div className='bg-top'>
+      <div className='bg-[#050745]'>
       <h1 className='text-white text-center pt-10 text-[48px] font-mona font-bold'>Git-Hub user  info</h1> 
  
       </div>
-      <div className='pb-[200px] h-screen flex flex-col items-center justify-center bg-gradient-to-b from-top  to-bottom'>
+      <div className='pb-[200px] h-screen flex flex-col items-center justify-center bg-gradient-to-b from-[#050745] to-[#1d2044]'>
       <input
 
         className='w-64 border-3 border-solid border-black p-2 rounded-xl  '
